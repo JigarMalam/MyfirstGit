@@ -1,2 +1,2 @@
 # MyfirstGit
-This is my fist Git
+This is my first Git
